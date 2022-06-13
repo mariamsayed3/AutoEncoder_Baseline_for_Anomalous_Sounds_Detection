@@ -22,7 +22,4 @@ model folder with the files zipped in model2.
 
 
 ### Note:
-    The csv. files in the result folder isn't the results 
-    obtained from the 2 modifications, because I tested 
-    the modifications multiple time, each time with 
-    different machine separately.
+    If after running the project the model and result folders haven't generated, Create model and result folders 
