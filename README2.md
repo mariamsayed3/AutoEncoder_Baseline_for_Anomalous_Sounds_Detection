@@ -20,15 +20,3 @@ in model folder with the files zipped in model1
 In order to test modification2, you should replace the files in 
 model folder with the files zipped in model2.
 
-
-### Note:
-     If after running the project, the model and result folders haven't been generated. Create model and result folders as follow
-        /AutoEncoder_Baseline_for_anomalous_sounds_detection
-            model
-            result
-            /00_train.py
-            /01_test.py
-            /common.py
-           /keras_model.py
-            /baseline.yaml
-            /readme.md
