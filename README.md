@@ -1,4 +1,4 @@
-# dcase2021_task2_baseline_ae
+# AutoEncoder_Baseline_For_Anomalous_Sounds_Detection
 Autoencoder-based baseline system for [DCASE2021 Challenge Task 2](http://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds).
 
 ## Description
